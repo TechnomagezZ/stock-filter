@@ -11,3 +11,4 @@ public class TimeIt {
 		}
 	}
 }
+//Copyright, Zachary Zensen 2020
