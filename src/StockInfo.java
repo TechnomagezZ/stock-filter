@@ -12,3 +12,4 @@ public class StockInfo {
 		return ticker + " " + price + ", ";
 	}
 }
+//Copyright, Zachary Zensen 2020
