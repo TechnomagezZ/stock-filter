@@ -44,3 +44,4 @@ public class StockUtil {
 		}
 	};
 }
+//Copyright, Zachary Zensen 2020
